@@ -1,0 +1,7 @@
+httpx==0.28.1
+websockets==15.0.1
+pyobjc-core==11.1; sys_platform == "darwin"
+pyobjc-framework-Cocoa==11.1; sys_platform == "darwin"
+pyobjc-framework-Quartz==11.1; sys_platform == "darwin"
+pyobjc-framework-CoreML==11.1; sys_platform == "darwin"
+pyobjc-framework-Vision==11.1; sys_platform == "darwin"

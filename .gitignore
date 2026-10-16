@@ -1,0 +1,12 @@
+.runtime*
+config.json
+credentials.json
+web-session.json
+web-identity.json
+.env
+.env.*
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.DS_Store
